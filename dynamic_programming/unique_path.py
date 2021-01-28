@@ -1,13 +1,13 @@
 
 """
-No.82 and No.83 unique path I and II.
+No.62 and No.63 unique path I and II.
 
 Date: 01/27/2021
 """
 
 def unique_path(m, n):
     """
-    No.82 Unique Path. (medium)
+    No.62 Unique Path. (medium)
 
     time: O(m * n)
     space: O(m * n)
@@ -24,7 +24,7 @@ def unique_path(m, n):
 
 def unique_path_with_obstacles(grid):
     """
-    No.83 Unique path II. (medium)
+    No.63 Unique path II. (medium)
 
     time: O(m * n)
     space: O(m * n)
